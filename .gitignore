@@ -1,0 +1,23 @@
+# Compiled classes
+bin/
+*.class
+
+# Local database files
+*.db
+
+# Local environment settings and Maven build output
+.env
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
